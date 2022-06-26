@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600px" height="600px" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1</title>
+    <defs>
+        <filter x="-1.8%" y="-0.9%" width="103.5%" height="101.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Path-2-Copy-14-+-Fill-45-+-Fill-55-Mask" transform="translate(300.000000, 299.788779)">
+            <path d="M300,300 C201.010101,272.338772 151.010101,222.843823 150,151.515152 C150,70.7070707 100,20.2020202 0,0 L0,300 L300,300 Z" id="Mask"></path>
+            <path d="M-151.515152,300 C-149.494949,100 -198.989899,4.54747351e-13 -300,4.54747351e-13 L-300,300 L-151.515152,300 Z" id="Path-2-Copy-14" stroke="#FFFFFF" stroke-width="5.2" stroke-linejoin="bevel" filter="url(#filter-1)" transform="translate(-225.727867, 150.000000) scale(-1, -1) translate(225.727867, -150.000000) "></path>
+            <path d="M297.568651,-72.9912588 C297.568651,-22.0692738 256.290158,19.2112207 205.370641,19.2112207 C154.451124,19.2112207 113.17263,-22.0692738 113.17263,-72.9912588 C113.17263,-123.913244 154.451124,-165.193738 205.370641,-165.193738 C256.290158,-165.193738 297.568651,-123.913244 297.568651,-72.9912588" id="Fill-45" fill="#FF0000"></path>
+            <path d="M205.370641,-207.5863 C256.290158,-207.5863 297.568651,-248.866794 297.568651,-299.788779 L113.17263,-299.788779 C113.17263,-248.866794 154.451124,-207.5863 205.370641,-207.5863" id="Fill-55" fill="#FF0000"></path>
+        </g>
+    </g>
+</svg>
